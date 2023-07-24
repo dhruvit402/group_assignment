@@ -1,0 +1,16 @@
+
+.h1{
+    text-align: center;
+}
+form{
+    width:550px;
+    border: black solid 3px;
+align-items: center;
+margin-left: 27%;
+margin-top: 100px;
+}
+.form-group{
+    width: 500px;
+    padding-left: 65px;
+font-size: medium;
+}
